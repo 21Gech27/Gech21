@@ -5,14 +5,14 @@ Hello Everyone, This is my Profile
 
  📊 Project Overview
 
-This project analyzes the **Sample Superstore dataset** to uncover meaningful insights into sales, profit, customers, products, and business performance.
+This project analyzes the Sample Superstore dataset to uncover meaningful insights into sales, profit, customers, products, and business performance.
 
-The project demonstrates a complete **data analytics workflow**, from data cleaning and preparation to SQL analysis and interactive dashboard development.
+The project demonstrates a complete data analytics workflow, from data cleaning and preparation to SQL analysis and interactive dashboard development.
 
  🛠️ Tools Used
 Microsoft Excel– Data cleaning, preparation, and initial analysis
 SQL Server (SSMS)** – Data querying and business analysis
-Power BI** – Interactive dashboard and data visualization
+Power BI – Interactive dashboard and data visualization
 
 🔍 Key Analysis
 
@@ -42,11 +42,11 @@ The interactive dashboard includes:
 
  💡 Key Insights
 
-The analysis provides insights into **sales trends, profitable and loss-making products, regional performance, customer performance, and the relationship between discounts and profitability**.
+The analysis provides insights into sales trends, profitable and loss-making products, regional performance, customer performance, and the relationship between discounts and profitability.
 
 🎯 Project Objective
 
-The main objective of this project is to demonstrate practical skills in **data cleaning, SQL analysis, data visualization, dashboard development, and business intelligence** using Excel, SQL, and Power BI.
+The main objective of this project is to demonstrate practical skills in data cleaning, SQL analysis, data visualization, dashboard development, and business intelligence using Excel, SQL, and Power BI.
   
             📊 Power BI Dashboard Screenshot
 <img width="736" height="807" alt="Dashboard" src="https://github.com/user-attachments/assets/6d96387c-51d6-46ac-8cd5-b806124bc49d" />
